@@ -1,0 +1,1948 @@
+{
+  "user": "c5a78d1552",
+  "benchmark_personalize": {
+    "low": 90.0,
+    "high": 100
+  },
+  "benchmark_fixed": {
+    "low": 93,
+    "high": 100
+  },
+  "longterm_data": [
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 26,
+      "min": 92,
+      "median": 95,
+      "max": 100,
+      "outlier": 0
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 27,
+      "min": 93,
+      "median": 99,
+      "max": 100,
+      "outlier": 0
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 28,
+      "min": 89,
+      "median": 96,
+      "max": 100,
+      "outlier": 2
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 29,
+      "min": 88,
+      "median": 96,
+      "max": 99,
+      "outlier": 1
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 30,
+      "min": 94,
+      "median": 98,
+      "max": 100,
+      "outlier": 0
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 31,
+      "min": 92,
+      "median": 93.5,
+      "max": 97,
+      "outlier": 0
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 1,
+      "min": 90,
+      "median": 94,
+      "max": 98,
+      "outlier": 0
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 2,
+      "min": 85,
+      "median": 95,
+      "max": 99,
+      "outlier": 1
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 3,
+      "min": 92,
+      "median": 95,
+      "max": 100,
+      "outlier": 0
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 4,
+      "min": 94,
+      "median": 96,
+      "max": 98,
+      "outlier": 0
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 6,
+      "min": 95,
+      "median": 95,
+      "max": 95,
+      "outlier": 0
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 7,
+      "min": 91,
+      "median": 93,
+      "max": 98,
+      "outlier": 0
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 8,
+      "min": 89,
+      "median": 96,
+      "max": 98,
+      "outlier": 1
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 9,
+      "min": 91,
+      "median": 91,
+      "max": 91,
+      "outlier": 0
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 10,
+      "min": 93,
+      "median": 95,
+      "max": 100,
+      "outlier": 0
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 11,
+      "min": 89,
+      "median": 96,
+      "max": 100,
+      "outlier": 1
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 12,
+      "min": 91,
+      "median": 95.5,
+      "max": 99,
+      "outlier": 0
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 13,
+      "min": 90,
+      "median": 93,
+      "max": 100,
+      "outlier": 0
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 14,
+      "min": 90,
+      "median": 95,
+      "max": 99,
+      "outlier": 0
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 15,
+      "min": 91,
+      "median": 96,
+      "max": 97,
+      "outlier": 0
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 16,
+      "min": 90,
+      "median": 95,
+      "max": 99,
+      "outlier": 0
+    }
+  ],
+  "daily_data": [
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 26,
+      "hour": 0,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 26,
+      "hour": 5,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 26,
+      "hour": 6,
+      "bloodOxygenSaturation": 93,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 26,
+      "hour": 8,
+      "bloodOxygenSaturation": 96,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 26,
+      "hour": 8,
+      "bloodOxygenSaturation": 93,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 26,
+      "hour": 9,
+      "bloodOxygenSaturation": 93,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 26,
+      "hour": 9,
+      "bloodOxygenSaturation": 92,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 26,
+      "hour": 10,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 26,
+      "hour": 14,
+      "bloodOxygenSaturation": 98,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 26,
+      "hour": 15,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 26,
+      "hour": 15,
+      "bloodOxygenSaturation": 96,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 26,
+      "hour": 16,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 26,
+      "hour": 18,
+      "bloodOxygenSaturation": 100,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 26,
+      "hour": 19,
+      "bloodOxygenSaturation": 100,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 26,
+      "hour": 20,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 26,
+      "hour": 21,
+      "bloodOxygenSaturation": 100,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 27,
+      "hour": 7,
+      "bloodOxygenSaturation": 93,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 27,
+      "hour": 13,
+      "bloodOxygenSaturation": 100,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 27,
+      "hour": 15,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 27,
+      "hour": 18,
+      "bloodOxygenSaturation": 100,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 27,
+      "hour": 19,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 27,
+      "hour": 21,
+      "bloodOxygenSaturation": 99,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 27,
+      "hour": 22,
+      "bloodOxygenSaturation": 99,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 28,
+      "hour": 5,
+      "bloodOxygenSaturation": 93,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 28,
+      "hour": 6,
+      "bloodOxygenSaturation": 89,
+      "outlier": true
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 28,
+      "hour": 7,
+      "bloodOxygenSaturation": 89,
+      "outlier": true
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 28,
+      "hour": 10,
+      "bloodOxygenSaturation": 96,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 28,
+      "hour": 10,
+      "bloodOxygenSaturation": 96,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 28,
+      "hour": 11,
+      "bloodOxygenSaturation": 98,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 28,
+      "hour": 14,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 28,
+      "hour": 15,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 28,
+      "hour": 15,
+      "bloodOxygenSaturation": 96,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 28,
+      "hour": 17,
+      "bloodOxygenSaturation": 100,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 28,
+      "hour": 20,
+      "bloodOxygenSaturation": 99,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 28,
+      "hour": 21,
+      "bloodOxygenSaturation": 99,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 28,
+      "hour": 22,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 28,
+      "hour": 22,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 29,
+      "hour": 0,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 29,
+      "hour": 4,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 29,
+      "hour": 5,
+      "bloodOxygenSaturation": 96,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 29,
+      "hour": 6,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 29,
+      "hour": 7,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 29,
+      "hour": 7,
+      "bloodOxygenSaturation": 98,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 29,
+      "hour": 8,
+      "bloodOxygenSaturation": 96,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 29,
+      "hour": 11,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 29,
+      "hour": 11,
+      "bloodOxygenSaturation": 88,
+      "outlier": true
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 29,
+      "hour": 12,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 29,
+      "hour": 14,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 29,
+      "hour": 17,
+      "bloodOxygenSaturation": 92,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 29,
+      "hour": 17,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 29,
+      "hour": 19,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 29,
+      "hour": 21,
+      "bloodOxygenSaturation": 99,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 29,
+      "hour": 22,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 29,
+      "hour": 22,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 29,
+      "hour": 23,
+      "bloodOxygenSaturation": 96,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 30,
+      "hour": 3,
+      "bloodOxygenSaturation": 98,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 30,
+      "hour": 5,
+      "bloodOxygenSaturation": 98,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 30,
+      "hour": 6,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 30,
+      "hour": 7,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 30,
+      "hour": 8,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 30,
+      "hour": 13,
+      "bloodOxygenSaturation": 100,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 30,
+      "hour": 15,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 30,
+      "hour": 16,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 30,
+      "hour": 17,
+      "bloodOxygenSaturation": 98,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 30,
+      "hour": 19,
+      "bloodOxygenSaturation": 98,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 30,
+      "hour": 23,
+      "bloodOxygenSaturation": 99,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 31,
+      "hour": 0,
+      "bloodOxygenSaturation": 92,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 31,
+      "hour": 2,
+      "bloodOxygenSaturation": 93,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 31,
+      "hour": 7,
+      "bloodOxygenSaturation": 92,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 31,
+      "hour": 8,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 31,
+      "hour": 8,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 31,
+      "hour": 9,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 31,
+      "hour": 11,
+      "bloodOxygenSaturation": 92,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "day": 31,
+      "hour": 12,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 1,
+      "hour": 2,
+      "bloodOxygenSaturation": 90,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 1,
+      "hour": 10,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 1,
+      "hour": 10,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 1,
+      "hour": 11,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 1,
+      "hour": 12,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 1,
+      "hour": 15,
+      "bloodOxygenSaturation": 98,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 1,
+      "hour": 16,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 1,
+      "hour": 16,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 1,
+      "hour": 20,
+      "bloodOxygenSaturation": 90,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 1,
+      "hour": 21,
+      "bloodOxygenSaturation": 90,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 1,
+      "hour": 22,
+      "bloodOxygenSaturation": 90,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 1,
+      "hour": 22,
+      "bloodOxygenSaturation": 91,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 1,
+      "hour": 23,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 2,
+      "hour": 0,
+      "bloodOxygenSaturation": 92,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 2,
+      "hour": 5,
+      "bloodOxygenSaturation": 85,
+      "outlier": true
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 2,
+      "hour": 7,
+      "bloodOxygenSaturation": 96,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 2,
+      "hour": 8,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 2,
+      "hour": 9,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 2,
+      "hour": 11,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 2,
+      "hour": 11,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 2,
+      "hour": 14,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 2,
+      "hour": 18,
+      "bloodOxygenSaturation": 99,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 2,
+      "hour": 19,
+      "bloodOxygenSaturation": 98,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 2,
+      "hour": 20,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 3,
+      "hour": 15,
+      "bloodOxygenSaturation": 100,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 3,
+      "hour": 16,
+      "bloodOxygenSaturation": 98,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 3,
+      "hour": 17,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 3,
+      "hour": 18,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 3,
+      "hour": 18,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 3,
+      "hour": 19,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 3,
+      "hour": 20,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 3,
+      "hour": 21,
+      "bloodOxygenSaturation": 92,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 3,
+      "hour": 21,
+      "bloodOxygenSaturation": 93,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 3,
+      "hour": 22,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 3,
+      "hour": 22,
+      "bloodOxygenSaturation": 96,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 4,
+      "hour": 15,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 4,
+      "hour": 16,
+      "bloodOxygenSaturation": 96,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 4,
+      "hour": 18,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 4,
+      "hour": 18,
+      "bloodOxygenSaturation": 98,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 4,
+      "hour": 19,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 4,
+      "hour": 19,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 4,
+      "hour": 22,
+      "bloodOxygenSaturation": 96,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 6,
+      "hour": 13,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 6,
+      "hour": 18,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 7,
+      "hour": 10,
+      "bloodOxygenSaturation": 91,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 7,
+      "hour": 11,
+      "bloodOxygenSaturation": 93,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 7,
+      "hour": 12,
+      "bloodOxygenSaturation": 93,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 7,
+      "hour": 13,
+      "bloodOxygenSaturation": 93,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 7,
+      "hour": 13,
+      "bloodOxygenSaturation": 91,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 7,
+      "hour": 15,
+      "bloodOxygenSaturation": 98,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 8,
+      "hour": 5,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 8,
+      "hour": 9,
+      "bloodOxygenSaturation": 89,
+      "outlier": true
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 8,
+      "hour": 12,
+      "bloodOxygenSaturation": 98,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 8,
+      "hour": 12,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 8,
+      "hour": 14,
+      "bloodOxygenSaturation": 90,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 8,
+      "hour": 20,
+      "bloodOxygenSaturation": 98,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 9,
+      "hour": 8,
+      "bloodOxygenSaturation": 91,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 9,
+      "hour": 9,
+      "bloodOxygenSaturation": 91,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 10,
+      "hour": 4,
+      "bloodOxygenSaturation": 96,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 10,
+      "hour": 4,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 10,
+      "hour": 5,
+      "bloodOxygenSaturation": 93,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 10,
+      "hour": 5,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 10,
+      "hour": 7,
+      "bloodOxygenSaturation": 93,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 10,
+      "hour": 9,
+      "bloodOxygenSaturation": 93,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 10,
+      "hour": 11,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 10,
+      "hour": 12,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 10,
+      "hour": 13,
+      "bloodOxygenSaturation": 96,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 10,
+      "hour": 15,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 10,
+      "hour": 20,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 10,
+      "hour": 22,
+      "bloodOxygenSaturation": 100,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 10,
+      "hour": 23,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 11,
+      "hour": 5,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 11,
+      "hour": 6,
+      "bloodOxygenSaturation": 96,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 11,
+      "hour": 8,
+      "bloodOxygenSaturation": 90,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 11,
+      "hour": 9,
+      "bloodOxygenSaturation": 93,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 11,
+      "hour": 10,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 11,
+      "hour": 12,
+      "bloodOxygenSaturation": 96,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 11,
+      "hour": 12,
+      "bloodOxygenSaturation": 89,
+      "outlier": true
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 11,
+      "hour": 13,
+      "bloodOxygenSaturation": 100,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 11,
+      "hour": 14,
+      "bloodOxygenSaturation": 98,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 11,
+      "hour": 15,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 11,
+      "hour": 17,
+      "bloodOxygenSaturation": 100,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 11,
+      "hour": 23,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 12,
+      "hour": 1,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 12,
+      "hour": 5,
+      "bloodOxygenSaturation": 98,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 12,
+      "hour": 7,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 12,
+      "hour": 8,
+      "bloodOxygenSaturation": 96,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 12,
+      "hour": 9,
+      "bloodOxygenSaturation": 96,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 12,
+      "hour": 10,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 12,
+      "hour": 10,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 12,
+      "hour": 11,
+      "bloodOxygenSaturation": 98,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 12,
+      "hour": 11,
+      "bloodOxygenSaturation": 99,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 12,
+      "hour": 13,
+      "bloodOxygenSaturation": 92,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 12,
+      "hour": 14,
+      "bloodOxygenSaturation": 91,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 12,
+      "hour": 23,
+      "bloodOxygenSaturation": 98,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 13,
+      "hour": 9,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 13,
+      "hour": 11,
+      "bloodOxygenSaturation": 90,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 13,
+      "hour": 11,
+      "bloodOxygenSaturation": 93,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 13,
+      "hour": 12,
+      "bloodOxygenSaturation": 93,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 13,
+      "hour": 13,
+      "bloodOxygenSaturation": 93,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 13,
+      "hour": 13,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 13,
+      "hour": 15,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 13,
+      "hour": 18,
+      "bloodOxygenSaturation": 92,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 13,
+      "hour": 23,
+      "bloodOxygenSaturation": 100,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 14,
+      "hour": 1,
+      "bloodOxygenSaturation": 99,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 14,
+      "hour": 5,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 14,
+      "hour": 5,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 14,
+      "hour": 6,
+      "bloodOxygenSaturation": 92,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 14,
+      "hour": 6,
+      "bloodOxygenSaturation": 90,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 14,
+      "hour": 7,
+      "bloodOxygenSaturation": 96,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 14,
+      "hour": 8,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 14,
+      "hour": 10,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 14,
+      "hour": 11,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 14,
+      "hour": 15,
+      "bloodOxygenSaturation": 91,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 14,
+      "hour": 16,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 14,
+      "hour": 19,
+      "bloodOxygenSaturation": 98,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 14,
+      "hour": 19,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 14,
+      "hour": 21,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 14,
+      "hour": 22,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 15,
+      "hour": 1,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 15,
+      "hour": 2,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 15,
+      "hour": 4,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 15,
+      "hour": 6,
+      "bloodOxygenSaturation": 92,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 15,
+      "hour": 7,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 15,
+      "hour": 7,
+      "bloodOxygenSaturation": 93,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 15,
+      "hour": 8,
+      "bloodOxygenSaturation": 96,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 15,
+      "hour": 9,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 15,
+      "hour": 10,
+      "bloodOxygenSaturation": 92,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 15,
+      "hour": 11,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 15,
+      "hour": 14,
+      "bloodOxygenSaturation": 91,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 15,
+      "hour": 17,
+      "bloodOxygenSaturation": 96,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 15,
+      "hour": 20,
+      "bloodOxygenSaturation": 96,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 15,
+      "hour": 23,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 16,
+      "hour": 1,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 16,
+      "hour": 6,
+      "bloodOxygenSaturation": 95,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 16,
+      "hour": 7,
+      "bloodOxygenSaturation": 99,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 16,
+      "hour": 7,
+      "bloodOxygenSaturation": 94,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 16,
+      "hour": 8,
+      "bloodOxygenSaturation": 92,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 16,
+      "hour": 8,
+      "bloodOxygenSaturation": 99,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 16,
+      "hour": 9,
+      "bloodOxygenSaturation": 90,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 16,
+      "hour": 9,
+      "bloodOxygenSaturation": 98,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 16,
+      "hour": 10,
+      "bloodOxygenSaturation": 97,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 16,
+      "hour": 15,
+      "bloodOxygenSaturation": 92,
+      "outlier": false
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "day": 16,
+      "hour": 16,
+      "bloodOxygenSaturation": 92,
+      "outlier": false
+    }
+  ]
+}
